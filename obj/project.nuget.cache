@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cme6v4vA4ucGl77PYsicFXMct+6wS3/C6UDzNL667HGgHzE9c3YRRpiY8x5Y4OPw6DEO+LTSOZ94GVze3Kcv7Q==",
+  "success": true,
+  "projectFilePath": "F:\\2021\\PROG\\MemeGenerator\\MemeGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\justi\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
